@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+Fork the repository and clone to your pc and run npm start. After running this you can see the page on localhost. Then you can upload csv files and the page displays the contents of the file.
 In the project directory, you can run:
 
 ### `npm start`
